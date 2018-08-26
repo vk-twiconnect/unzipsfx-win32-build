@@ -2,13 +2,13 @@
 
 ## Overview
 
-This README file describes the setup required to be able to compile unzipsfx-win32 at Windows Server 2016 (or any recent windows version)
+This README file describes the setup required to be able to compile unzipsfx-win32 at Windows Server 2016 (or any recent windows version).  
 
 ## Pre-requisites
 
-To build unzipsfx we need Visual Studio 2017 installed (free community edition installer can be obtained [here](https://aka.ms/vs/15/release/vs_community.exe)
+To build unzipsfx we need Visual Studio 2017 installed (free community edition installer can be obtained [here](https://aka.ms/vs/15/release/vs_community.exe))
 
-We just need to download the installer, execute it and wait till installation has finished (can take a while)
+We just need to download the installer, execute it and wait till installation has finished (can take a while).  
 
 ## Build steps
 
@@ -20,7 +20,7 @@ To build unzipsfx tool under Windows, follow these steps:
 
 ![unzipsfx workspace](./win32/images/initial_workspace.png)  
 
-* Using your windows explorer, go to the folder where you downloaded the codes, and then go to the **win32/vc2017** directory.   
+* Using your windows explorer, go to the folder where you downloaded the codes, and then go to the **win32/vc2017** subdirectory.   
 
 ![unzipsfx win32 V2017 folder](./win32/images/win32_VS2017_workspace.png)  
 
@@ -35,10 +35,10 @@ To build unzipsfx tool under Windows, follow these steps:
 3. Right click **unzipsfx**, select Compile option (first one), this will build the tool using its sources.  
   
 Screenshot below describes the steps required:  
-  
+
 ![unzipsfx win32 V2017 folder](./win32/images/unzipsfx_visual_studio_build_menu.png)  
 
-* Build process will create a new output folder under **win32/VC2017/unzipsfx___Win32_Release** . This folder contains the unzipsfx executable.  
+* Build process will create a new output folder under **win32/VC2017/unzipsfx___Win32_Release** . This folder contains the **unzipsfx** executable you can move to any folder.  
 
 ![unzipsfx win32 V2017 folder](./win32/images/unzipsfx_output_directory_with_binary.png)  
   
