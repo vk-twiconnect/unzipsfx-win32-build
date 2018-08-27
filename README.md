@@ -7,7 +7,12 @@ This README file describes the setup required to be able to compile unzipsfx-win
 ## Pre-requisites
 
 To build unzipsfx install Visual Studio 2017 community edition, installer can be obtained [here](https://aka.ms/vs/15/release/vs_community.exe))
-Run the installler and wait till installation has finished (can take a while).  
+Run the installler and wait till installation has finished (can take a while).
+
+Required components: 
+* VC++
+* Windows 8.1 SDK (from Individual Components)
+* Windows Universal CRT SDK
 
 ## Build steps
 

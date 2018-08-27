@@ -1,0 +1,45 @@
+﻿  win32i64.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  win32.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  nt.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  crc_i386.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  zipinfo.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  unzip.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  unshrink.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  unreduce.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  ubz2err.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  ttyio.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  process.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  match.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  list.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  inflate.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  globals.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  fileio.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  extract.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  explode.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  envargs.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  crypt.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  Generating Code...
+  Compiling...
+  crc32.c
+c:\projects\unzipsfx-win32-build\win32\w32cfg.h(43): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  Generating Code...
